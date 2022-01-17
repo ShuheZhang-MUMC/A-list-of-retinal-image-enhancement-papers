@@ -12,7 +12,7 @@
 * Cataract dataset [[dataset]](https://www.kaggle.com/jr2ngb/cataractdataset)
 * Messidor [[dataset]](https://www.adcis.net/en/third-party/messidor/) [[paper]](https://www.ias-iss.org/ojs/IAS/article/view/1155)
 
-## Retinal image enhacnement papers
+## 3. Retinal image enhacnement papers
 ### 2022
 * Aditya Raj, Nisarg A. Shah, Anil Kumar Tiwari, "A novel approach for fundus image enhancement" Biomedical Signal Processing and Control [[paper]](https://doi.org/10.1016/j.bspc.2021.103208)
 * ShuheZhang, Carroll A.B.Webers, Tos T.J.M.Berendschot, "A double-pass fundus reflection model for efficient single retinal image enhancement" Signal Processing [[paper]](https://doi.org/10.1016/j.sigpro.2021.108400) [[code]](https://github.com/ShuheZhang-MUMC/Double-Pass-Fundus-Reflection-model)
@@ -45,3 +45,8 @@
 * L. Xiong, H. Li, and L. Xu, "An enhancement method for color retinal images based on image formation model," Computer Methods and Programs in Biomedicine [[paper]](https://doi.org/10.1016/j.cmpb.2017.02.026)
 * P. Dai, H. Sheng, J. Zhang, L. Li, J. Wu, and M. Fan, "Retinal Fundus Image Enhancement Using the Normalized Convolution and Noise Removing," International Journal of Biomedical Imaging [[paper]](https://www.hindawi.com/journals/ijbi/2016/5075612/)
 * A. W. Setiawan, T. R. Mengko, O. S. Santoso, and A. B. Suksmono, "Color Retinal Image Enhancement using CLAHE," International Conference on ICT for Smart Society [[paper]](https://ieeexplore.ieee.org/abstract/document/6588092)
+
+
+## 4. Notes
+* The above content is constantly updated, welcome continuous attention! 
+* If you have any question, please feel free to contact Shuhe Zhang (Email: shuhe.zhang@maastrichtuniversity.nl). We are looking forward your comments and suggestions.
