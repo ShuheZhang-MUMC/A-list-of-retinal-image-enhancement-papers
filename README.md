@@ -1,6 +1,7 @@
 # A-list-of-retinal-image-enhancement-papers (updating)
 ## 1. Description
 * This is a list showing retinal image enhancement papers from 2018 to Now. 
+* The papers are focused on retinal image obtained by fundus camera. (OCT and other machines are out of scope.)
 * Papers and datasets are maintained.
 * Codes (if avaliable) for some papers are cited from authors' repositories, some codes are programmed by my self according to related papers.
 
