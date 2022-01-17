@@ -2,7 +2,7 @@
 ## 1. Description
 * This is a list showing retinal image enhancement papers from 2018 to Now. 
 * Papers and datasets are maintained.
-* Codes (if avaliable) for some papers are cite from authors' repositories, some codes are programmed by my self according to their papers.
+* Codes (if avaliable) for some papers are cited from authors' repositories, some codes are programmed by my self according to related papers.
 
 ## 2. Retinal image public datasets
 * DRIVE [[dataset]](https://drive.grand-challenge.org/)
