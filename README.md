@@ -17,6 +17,9 @@
 * E-ophtha [[dataset]](https://www.adcis.net/en/third-party/e-ophtha/) [[paper]](https://www.sciencedirect.com/science/article/pii/S1959031813000237?via%3Dihub)
 
 ## 3. Retinal image enhacnement papers
+### 2023
+* Shuhe Zhang, Carroll A.B. Webers, Tos T.J.M. Berendschot, Luminosity rectified blind Richardson-Lucy deconvolution for single retinal image restoration, Computer Methods and Programs in Biomedicine [[paper]](https://www.sciencedirect.com/science/article/pii/S0169260722006782)
+
 ### 2022
 * Aditya Raj, Nisarg A. Shah, Anil Kumar Tiwari, "A novel approach for fundus image enhancement" Biomedical Signal Processing and Control [[paper]](https://doi.org/10.1016/j.bspc.2021.103208)
 * ShuheZhang, Carroll A.B.Webers, Tos T.J.M.Berendschot, "A double-pass fundus reflection model for efficient single retinal image enhancement" Signal Processing [[paper]](https://doi.org/10.1016/j.sigpro.2021.108400) [[code]](https://github.com/ShuheZhang-MUMC/Double-Pass-Fundus-Reflection-model)
