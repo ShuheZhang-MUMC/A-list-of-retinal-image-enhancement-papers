@@ -12,7 +12,8 @@
 * DiaRetDB1 [[dataset]](https://www.it.lut.fi/project/imageret/diaretdb1/index.html) [[paper]](https://www.it.lut.fi/project/imageret/diaretdb1/doc/diaretdb1_techreport_v_1_1.pdf)
 * Cataract dataset [[dataset]](https://www.kaggle.com/jr2ngb/cataractdataset)
 * Messidor [[dataset]](https://www.adcis.net/en/third-party/messidor/) [[paper]](https://www.ias-iss.org/ojs/IAS/article/view/1155)
-* IDRiD [[dataset]](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid)
+* IDRiD [[dataset]](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid) [[
+IDRiD Grand Challenge Website]](https://idrid.grand-challenge.org/)
 
 ## 3. Retinal image enhacnement papers
 ### 2022
